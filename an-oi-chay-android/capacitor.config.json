@@ -1,0 +1,7 @@
+{
+  "appId": "vn.anoichay.game",
+  "appName": "An ơi, chạy đâu?",
+  "webDir": "www",
+  "backgroundColor": "#8fd3f4",
+  "server": { "androidScheme": "https" }
+}
